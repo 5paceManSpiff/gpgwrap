@@ -1,0 +1,19 @@
+{
+  "name": "gpgwrap",
+  "version": "1.0.0",
+  "description": "A nodejs wrapper for the linux gpg cli.",
+  "main": "gpg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5paceManSpiff/gpgwrap"
+  },
+  "author": "Aaron Landis",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/5paceManSpiff/gpgwrap/issues"
+  },
+  "homepage": "https://github.com/5paceManSpiff/gpgwrap"
+}
